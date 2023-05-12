@@ -1,6 +1,6 @@
 <h3 align="center">Cyber protection It is a non-profit organization.):</h3>
 
-- 🔭 I’m currently working on [Facebook 11 lite](https://github.com/cpfile/Fb11lite)
+- 🔭 Currently working on [Facebook 11 lite](https://github.com/cpfile/Fb11lite)
 
 - 📫 How to reach me **cyberprotectionofficial@gmail.com**
 
