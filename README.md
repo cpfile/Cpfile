@@ -1,4 +1,5 @@
-![cyber protection glf](https://github.com/cpfile/Cpfile/assets/133189455/1c9def03-3157-4476-8d2b-8dc895e9cc21)
+![cyber protection logo](https://github.com/cpfile/Cpfile/assets/133189455/65559b12-3a8e-4acf-b4ce-8cd3a6f40e6a)
+
 <h3 align="center">Cyber protection It is a non-profit organization.):</h3>
 
 - 🔭 Currently working on [Facebook 11 lite](https://github.com/cpfile/Fb11lite)
@@ -12,5 +13,3 @@
 <a href="https://www.hackerrank.com/cyberprotectionofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cyberprotectionofficial" height="30" width="40" /></a>
 <a href="https://discord.gg/cyberprotectionofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cyberprotectionofficial" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpfile&show_icons=true&locale=en" alt="cpfile" /></p>
